@@ -1,0 +1,9 @@
+Which statement is true?
+
+A. A compilation error occurs in IceCream.
+B. A compilation error occurs in Cake.
+C. A compilation error occurs in Shop.
+D. A compilation error occurs in Bread
+E. All classes compile successfully.
+
+Answer:
